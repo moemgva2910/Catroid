@@ -1072,7 +1072,7 @@
     <!-- Control bricks -->
     <string name="brick_when_started">When scene starts</string>
     <string name="brick_when">When tapped</string>
-    <string name="brick_when_condition_when">When</string>
+    <string name="brick_when_condition_when">Коли</string>
     <string name="brick_when_becomes_true">becomes true</string>
     <string name="brick_wait">Wait</string>
     <string name="brick_wait_until">Wait until</string>
@@ -1266,7 +1266,7 @@
     <string name="default_script_group_name">Script group</string>
     <string name="default_broadcast_message_name">Message</string>
     <string name="default_list_name">List</string>
-    <string name="default_project_background_name">Background</string>
+    <string name="default_project_background_name">Фон</string>
     <string name="default_project_cloud_name">Clouds</string>
     <string name="default_project_cloud_sprite_name_1">Clouds1</string>
     <string name="default_project_cloud_sprite_name_2">Clouds2</string>
@@ -1282,7 +1282,7 @@
     <!--suppress UnusedResources -->
     <string name="default_project_inner_loop">Inner Loop</string>
     <!-- Default ChromeCast Values -->
-    <string name="default_cast_project_background_name">Background</string>
+    <string name="default_cast_project_background_name">Фон</string>
     <string name="default_cast_project_cloud_name">Clouds</string>
     <string name="default_cast_project_cloud_sprite_name1">Clouds1</string>
     <string name="default_cast_project_cloud_sprite_name2">Clouds2</string>
